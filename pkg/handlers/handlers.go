@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"net/http"
 	"go-server-basic/pkg/render"
+	"net/http"
 )
 
 // Home is the handler for the home page

@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-	"net/http"
 	"go-server-basic/pkg/handlers"
-
+	"net/http"
 )
 
 const portNumber = ":8080"
